@@ -1,2 +1,2 @@
-# be-golang-chapter-01
-this repo for chapter 01
+# be-golang-chapter-06
+this repo for chapter 06
